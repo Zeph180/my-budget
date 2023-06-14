@@ -1,21 +1,12 @@
 AllCops:
   NewCops: enable
   Exclude:
-    - 'db/**/*'
-    - 'bin/*'
-    - 'app/*'
-    - 'config/**/*'
-    - 'Guardfile'
-    - 'Rakefile'
-    - 'node_modules/**/*'
-    - 'vendor/**/*'
-    - 'spec/**/*'
-    - 'test/**/*'
-    - 'features/**/*'
-    - 'lib/actionmailbox/**/*'
-    - app/mailers/application_mailer.rb
-    - Gemfile
-    - config.ru
+    - "db/**/*"
+    - "bin/*" 
+    - "config/**/*"
+    - "Guardfile"
+    - "Rakefile"
+    - "node_modules/**/*"
 
   DisplayCopNames: true
 
@@ -23,19 +14,19 @@ Layout/LineLength:
   Max: 120
 Metrics/MethodLength:
   Include:
-    - 'app/controllers/*'
-    - 'app/models/*'
-  Max: 100
+    - "app/controllers/*"
+    - "app/models/*"
+  Max: 20
 Metrics/AbcSize:
   Include:
-    - 'app/controllers/*'
-    - 'app/models/*'
-  Max: 100
+    - "app/controllers/*"
+    - "app/models/*"
+  Max: 50
 Metrics/ClassLength:
   Max: 150
 Metrics/BlockLength:
   AllowedMethods: ['describe']
-  Max: 100
+  Max: 30
 
 Style/Documentation:
   Enabled: false
