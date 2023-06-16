@@ -128,9 +128,9 @@ To get the project running:
 
 👤 **Kigozi Joseph**
 
-- GitHub: [@githubhandle](https://github.com/zeph180)
-- Twitter: [@twitterhandle](https://twitter.com/richardszeph)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/kigozijosephsuubi)
+- GitHub: [Zeph180](https://github.com/zeph180)
+- Twitter: [richards_zeph](https://twitter.com/richardszeph)
+- LinkedIn: [kigozi-joseph-suubi](https://linkedin.com/in/kigozijosephsuubi)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
