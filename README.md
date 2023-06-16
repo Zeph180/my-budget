@@ -33,6 +33,9 @@
 
 **Budget app** is a web-based rails application designed to help users manage their finances and track their expenses. It provides features such as user signup and login functionality to ensure secure access to personal budget information. The application allows users to create and manage categories
 
+
+## <a href="https://my-budget-0gkf.onrender.com/">Live demo</a>
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
